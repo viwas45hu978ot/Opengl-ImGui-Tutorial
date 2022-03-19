@@ -403,7 +403,7 @@ if (ImGui::Button("Press me"))
     printf("Button has been pressed");
 ...
 ```
-Now if we press the button it will say `Button has been pressed in the console`![Button](https://github.com/viwas45hu978ot/Opengl-ImGui-Tutorial/raw/main/button.png)
+Now if we press the button it will say `Button has been pressed` in the console ![Button](https://github.com/viwas45hu978ot/Opengl-ImGui-Tutorial/raw/main/button.png)
 
 ## Text
 To create a piece of text we can use `ImGui::Text();`
