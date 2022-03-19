@@ -32,7 +32,8 @@ Then you copy the files to the folder structure as written below
     └── glfw.lib
 ```
 
-Now add these files to your project so it looks like this ![Project bin](https://github.com/viwas45hu978ot/Opengl-ImGui-Tutorial/raw/main/Project.png)
+Now add these files to your project so it looks like this
+![Project bin](https://github.com/viwas45hu978ot/Opengl-ImGui-Tutorial/raw/main/Project.png)
 
 Remember to add the imgui and GLFW folders to include and library directories ![Includes](https://github.com/viwas45hu978ot/Opengl-ImGui-Tutorial/raw/main/IncludeLibary.png)
 
